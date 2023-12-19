@@ -3,10 +3,21 @@ body{
     padding: 10px;
     border:3px solid teal;
     text-align: left;
+    background-color:chocolate;    
+    opacity: 0.8;
+    background-image: url("bkg_img.jpg");
+    
 }
 
 img{
     width: 500px;
     height: 400px;
 }
-
+p{
+    background-color: azure;
+    opacity: 0.9;
+}
+li{
+    background-color: fuchsia;
+    opacity: 1;
+}
